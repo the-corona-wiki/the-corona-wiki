@@ -2,37 +2,44 @@
 
 Dates 3/16-3/25
 
-**Name:** Omar Sagoo & 
+**Name:** Omar Sagoo
 
 
-**Project Name:** 
+**Project Name:** Covid-19 Wiki
 
 
-**Is your project New or Old?**
+**Is your project New or Old?** New
 
 
-**Is your project Solo or Team?**
+**Is your project Solo or Team?** Team
 
 
 ## Description
 
 **Write a paragraph summary of the current status of your project, what you hope to achieve during the intensive, how and why**
 
+The Covid wiki is going to be a one stop shop for all info relating to corona virus. It will have information based off the virus, possibly show where to get tested, show current news for the virus, and show the live tracking website of the virus to keep people informed. Due to the heavy spread of misinformation, all info on this website will come from trusted sources and used soley to inform people about the truth.
+
 ## Challenges I Anticipate
 
 **List out the challenges you anticipate for completing this project**
+Writing out this project in node.JS, which is a language I havent used in a while. as well as finding accurate information to display on the website. 
 
 ## Skateboard
 
 **ONE SINGLE aspect of product. Consider: build backend for SPD 1.2 front end, CRUD one resource, use API or library, authentication etc.**
 
+Navigate between news articles.
+
 **Start coding and finish “Skateboard” feature before beginning “Bike”.** 
 
 ## Bike
 **ONE additional features that get you closer to your idealized product. Examples: CRUD 2nd resource, add comments, API use, authentication, library use** 
+Wiki info for Covid-19, symptoms, how to stay safe, what to do
 
 ## Car
 **ONE additional feature** 
+Where to get tested, at first users will input a location they know they can get tested at. 
 
 
 ## Personal Achievement Goals:
@@ -41,9 +48,9 @@ Dates 3/16-3/25
 
 ### Teammate 1
 
-1. Goal 1
-1. Goal 2
-1. Goal 3
+1. Create a website that can be used by many people
+1. brush up on old skills
+1. learn new information!
 
 ### Teammate 2
 
@@ -85,13 +92,13 @@ Dates 3/16-3/25
 
 
 ## Approval Checklist
-- [ ] If I have a team project, I wrote this proposal to represent my work and only my work
-- [ ] I have completed all the necessary parts of this proposal
-- [ ] I linked my proposal in the Spring Intensive Tracker
+- [x] If I have a team project, I wrote this proposal to represent my work and only my work
+- [x] I have completed all the necessary parts of this proposal
+- [x] I linked my proposal in the Spring Intensive Tracker
 
 ### Sign off
 
 **Student Name:**                
-> Name / Date
+> Omar Sagoo / 3-16-20
 **Make School Advisor Name**
 > TBD
