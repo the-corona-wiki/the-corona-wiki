@@ -53,12 +53,14 @@ Where to get tested, at first users will input a location they know they can get
 1. learn new information!
 
 ### Teammate 2
+## Sean Glancy
 
-1. Goal 1
-1. Goal 2
-1. Goal 3
+1. Create a Wiki with info on COVID-19
+1. Add a place for users to submit where they can get tested
+1. Try to get live tracking data on the cases to display on the wiki
 
 ### Teammate 3
+## Nyein (Ninja) Chan
 
 1. Goal 1
 1. Goal 2
