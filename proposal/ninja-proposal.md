@@ -48,9 +48,9 @@ Where to get tested, at first users will input a location they know they can get
 
 ### Teammate 1
 
-1. Create a website that can be used by many people
-1. brush up on old skills
-1. learn new information!
+1. Create a website that can be used by many people to display accurate information on coronavirus
+1. Learn new skills while also completing a civil service
+1. Learn more about the virus and what I can do the make the impact less.
 
 ### Teammate 2
 ## Sean Glancy
