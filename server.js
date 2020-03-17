@@ -2,12 +2,14 @@
 const express = require('express');
 const bodyparser = require("body-parser");
 const mongoose = require("mongoose");
-require('dotenv/config')
+require('dotenv/config');
+
 
 // App Setup
 const app = express();
-let port = process.env.PORT || 3003
-let mongoose_url = process.env.MONGODB_URI
+const http = require('http')
+let port = process.env.PORT || 9000;
+let mongoose_url = process.env.MONGODB_URI;
 
 
 // Middleware
@@ -34,7 +36,7 @@ app.get('/', (req,res) => {
 mongoose.connect(mongoose_url, 
     { useNewUrlParser: true },
     () => console.log('Connected to DB')
-)
+);
 
 // Start Server
 app.listen(port, () => {
