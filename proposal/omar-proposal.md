@@ -105,4 +105,5 @@ Where to get tested, at first users will input a location they know they can get
 **Student Name:**                
 > Omar Sagoo / 3-16-20
 **Make School Advisor Name**
-> TBD
+> Intesive Adivsor - Braus
+> Coach - Mitchell
