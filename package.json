@@ -1,0 +1,26 @@
+{
+  "name": "the-corona-wiki-outbreak",
+  "version": "1.0.0",
+  "description": "Displays all the current news about corona virus, as well as the stats and other information to help people in affected areas",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-corona-wiki/the-corona-wiki-outbreak.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-corona-wiki/the-corona-wiki-outbreak/issues"
+  },
+  "homepage": "https://github.com/the-corona-wiki/the-corona-wiki-outbreak#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.5",
+    "nodemon": "^2.0.2"
+  }
+}
