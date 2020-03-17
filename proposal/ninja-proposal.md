@@ -60,13 +60,14 @@ Where to get tested, at first users will input a location they know they can get
 1. Try to get live tracking data on the cases to display on the wiki
 
 ### Teammate 3
-## Nyein (Ninja) Chan
+## Omar Sagoo
 
-1. Goal 1
-1. Goal 2
-1. Goal 3
+1. Create a website that can be used by many people to display accurate information on coronavirus
+1. Learn new skills while also completing a civil service
+1. Learn more about the virus and what I can do the make the impact less.
 
 ### Teammate 4
+## Tasfia Addrita
 
 1. Goal 1
 1. Goal 2

@@ -35,7 +35,7 @@ Navigate between news articles.
 
 ## Bike
 **ONE additional features that get you closer to your idealized product. Examples: CRUD 2nd resource, add comments, API use, authentication, library use** 
-Wiki info for Covid-19, symptoms, how to stay safe, what to do
+Wiki info for Covid-19, symptoms, how to stay safe, what to do and how to donate. Possibly set an area to give donations to help people in affected areas.
 
 ## Car
 **ONE additional feature** 
@@ -47,10 +47,11 @@ Where to get tested, at first users will input a location they know they can get
 **Each teammate must achieve 2 of 3 of their self-set personal achievement goals. If you're not on a team, delete the other teammate sections as needed.**
 
 ### Teammate 1
+## Omar Sagoo
 
-1. Create a website that can be used by many people
-1. brush up on old skills
-1. learn new information!
+1. Create a website that can be used by many people to display accurate information on coronavirus
+1. Learn new skills while also completing a civil service
+1. Learn more about the virus and what I can do the make the impact less.
 
 ### Teammate 2
 ## Sean Glancy
@@ -67,6 +68,7 @@ Where to get tested, at first users will input a location they know they can get
 1. Goal 3
 
 ### Teammate 4
+## Tasfia Addrita
 
 1. Goal 1
 1. Goal 2
