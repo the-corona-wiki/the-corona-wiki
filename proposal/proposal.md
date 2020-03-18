@@ -82,8 +82,9 @@ In the age of an exaggerated media landscape and overwhelming information consum
 
 ### **Ninja Aung**
 
-- ...
-- ...
+- Working with a team remotly
+- Working with AWS, Instances, Load balancers and DNS
+- Applying my teaching perspective to the data we recieve, so it is easy to understand
 
 ### **Tasfia Addrita**
 
