@@ -46,11 +46,11 @@ Where to get tested, at first users will input a location they know they can get
 
 **Each teammate must achieve 2 of 3 of their self-set personal achievement goals. If you're not on a team, delete the other teammate sections as needed.**
 
-### Teammate 1
+### Teammate 1 (My Goals)
 
 1. Create a website that can be used by many people
-1. brush up on old skills
-1. learn new information!
+1. Learn how to efficiently use and configure DNS and AWServers
+1. learn new information! and be brush up on old skills
 
 ### Teammate 2
 ## Sean Glancy
